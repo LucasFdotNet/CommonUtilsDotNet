@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas Florindo\\source\\estudos\\CommonUtilsDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBCA572-8D18-4228-9B74-A79215A613DA}|CommonUtilsDotNet\\CommonUtilsDotNet.csproj|c:\\users\\lucas florindo\\source\\estudos\\commonutilsdotnet\\commonutilsdotnet\\commonutilsdotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EBCA572-8D18-4228-9B74-A79215A613DA}|CommonUtilsDotNet\\CommonUtilsDotNet.csproj|solutionrelative:commonutilsdotnet\\commonutilsdotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommonUtilsDotNet",
+              "DocumentMoniker": "C:\\Users\\Lucas Florindo\\source\\estudos\\CommonUtilsDotNet\\CommonUtilsDotNet\\CommonUtilsDotNet.csproj",
+              "RelativeDocumentMoniker": "CommonUtilsDotNet\\CommonUtilsDotNet.csproj",
+              "ToolTip": "C:\\Users\\Lucas Florindo\\source\\estudos\\CommonUtilsDotNet\\CommonUtilsDotNet\\CommonUtilsDotNet.csproj",
+              "RelativeToolTip": "CommonUtilsDotNet\\CommonUtilsDotNet.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T14:02:15.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

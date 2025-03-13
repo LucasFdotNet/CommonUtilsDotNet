@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="src\Messaging\" />
+    <Folder Include="src\Logging\" />
+    <Folder Include="src\Authentication\" />
+    <Folder Include="src\Exceptions\" />
+    <Folder Include="src\Configurations\" />
+    <Folder Include="src\" />
+    <Folder Include="src\Utils\" />
+    <Folder Include="tests\UnitTests\" />
+  </ItemGroup>
+
+</Project>
